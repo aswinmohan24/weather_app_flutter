@@ -1,16 +1,13 @@
-# flutter_weather_app
+# 📱Weather App UI
+## Description
+"I have developed a weather application using Flutter, designed as a single-screen interface to provide users with current weather conditions and additional information. This app seamlessly integrates with the [OpenWeatherMap API](https://openweathermap.org/), allowing for real-time retrieval of accurate weather data. I employed Flutter Bloc for efficient state management."
 
-A new Flutter project.
+## 📦Technologies
+- Flutter Framework
+- Dart Programming
+- Dio
+- Geolocator
+- Flutter BloC
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+![Blue Modern Stocks Investment Mobile App Promotion Instagram Post](https://github.com/aswinmohan24/weather_app_flutter/assets/156991420/64cd0d7b-934e-49c3-8448-96b8a07673a1)
